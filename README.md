@@ -1,5 +1,5 @@
 # Live Preview: https://clone-9f0fd.web.app/
-![Uploading Capture.png…]()
+![alt text](https://github.com/OmarTaha3/Amazon/blob/main/Capture.png?raw=true)
 
 # Getting Started with Create React App
 
