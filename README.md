@@ -1,4 +1,5 @@
 # Live Preview: https://clone-9f0fd.web.app/
+![Uploading Capture.png…]()
 
 # Getting Started with Create React App
 
